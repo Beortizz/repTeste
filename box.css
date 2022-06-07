@@ -18,10 +18,10 @@ div{
 }
 .B{
     background-color: green;
-    float: right;
-    position: absolute;
-    top: 400px;
-    left: 400px;
+
+    position: relative;
+    top: 12px;
+    left: 0px;
 
 }
 .C{
