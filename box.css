@@ -1,11 +1,28 @@
 div{
-    background-color: black;
-    color: red;
-    font-size: 40px;
+    background-color: gray;
+    color: black;
+    font-size: 15px;
     width: 200px;
     height: 120px;
     display: block;
-    flex-direction: row-reverse;
+    overflow: auto;
+    padding: 10px;
+    margin: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    box-sizing: border-box;
 
+}
+.A{
+    background-color: red;
+}
+.B{
+    background-color: green;
+    padding: 20px 10px 5px 0px;
+    float: right;
 
+}
+.C{
+    float: right;
 }
