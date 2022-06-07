@@ -1,0 +1,11 @@
+div{
+    background-color: black;
+    color: red;
+    font-size: 40px;
+    width: 200px;
+    height: 120px;
+    display: block;
+    flex-direction: row-reverse;
+
+
+}
